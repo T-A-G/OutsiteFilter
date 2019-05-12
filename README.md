@@ -3,9 +3,10 @@ Simple date filter for booking site
 
 ## Running locally
 
-1. install dependencies for frontend and backend.
-  1. run ```cd frontend && npm i```
-  2. run ```cd backend && npm i```
+1. install dependencies for base, frontend and backend.
+  1. run ```npm i```
+  2. run ```cd frontend && npm i```
+  3. run ```cd backend && npm i```
 2. to run locally return to root directory and run ```npm run-script dev```
 
 ## Enviroment Variables
