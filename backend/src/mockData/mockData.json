@@ -1,0 +1,130 @@
+{
+  "locations": [
+    {
+      "id" : "sc3",
+      "name": "Santa Cruz - Pleasure point",
+      "city": "Santa Cruz",
+      "country": "USA",
+      "image": "https://uploads-ssl.webflow.com/ 5ab30f883c0d5f3ebc626470/5c0 0683b93af77a8fc105200_ny-he ader.jpg",
+      "numberOfBeds": 5,
+      "bookings":[
+        {
+          "startDate" : "05-12-2019",
+          "endDate" : "05-14-2019"
+
+        },
+        {
+          "startDate" : "05-17-2019",
+          "endDate" : "05-18-2019"
+
+        }
+      ]
+
+    },
+    {
+      "id" : "au1",
+      "name": "Autsin - Back Creek",
+      "city": "Autin",
+      "country": "USA",
+      "image": "https://uploads-ssl.webflow.com/ 5ab30f883c0d5f3ebc626470/5c0 0683b93af77a8fc105200_ny-he ader.jpg",
+      "numberOfBeds": 10,
+      "bookings":[
+        {
+          "startDate" : "06-12-2019",
+          "endDate" : "06-14-2019"
+
+        },
+        {
+          "startDate" : "05-17-2019",
+          "endDate" : "05-18-2019"
+
+        }
+      ]
+
+    },
+    {
+      "id" : "hw1",
+      "name": "Hawaii - Haleiwa",
+      "city": "Haleiwa",
+      "country": "USA",
+      "image": "https://uploads-ssl.webflow.com/ 5ab30f883c0d5f3ebc626470/5c0 0683b93af77a8fc105200_ny-he ader.jpg",
+      "numberOfBeds": 3,
+      "bookings":[
+        {
+          "startDate" : "05-12-2019",
+          "endDate" : "05-14-2019"
+
+        },
+        {
+          "startDate" : "05-17-2019",
+          "endDate" : "05-18-2019"
+
+        }
+      ]
+
+    },
+    {
+      "id" : "ba1",
+      "name": "Bali - Canggu",
+      "city": "Canggu",
+      "country": "Indonesia",
+      "image": "https://uploads-ssl.webflow.com/ 5ab30f883c0d5f3ebc626470/5c0 0683b93af77a8fc105200_ny-he ader.jpg",
+      "numberOfBeds": 4,
+      "bookings":[
+        {
+          "startDate" : "05-12-2019",
+          "endDate" : "05-14-2019"
+
+        },
+        {
+          "startDate" : "06-17-2019",
+          "endDate" : "06-18-2019"
+
+        }
+      ]
+
+    },
+    {
+      "id" : "po1",
+      "name": "Portugal - Lisbon",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "image": "https://uploads-ssl.webflow.com/ 5ab30f883c0d5f3ebc626470/5c0 0683b93af77a8fc105200_ny-he ader.jpg",
+      "numberOfBeds": 2,
+      "bookings":[
+        {
+          "startDate" : "05-12-2019",
+          "endDate" : "05-14-2019"
+
+        },
+        {
+          "startDate" : "05-17-2019",
+          "endDate" : "05-18-2019"
+
+        }
+      ]
+
+    },
+    {
+      "id" : "st1",
+      "name": "Costa Rica - Santa Teresa",
+      "city": "Santa Teresa",
+      "country": "Costa Rica",
+      "image": "https://uploads-ssl.webflow.com/ 5ab30f883c0d5f3ebc626470/5c0 0683b93af77a8fc105200_ny-he ader.jpg",
+      "numberOfBeds": 2,
+      "bookings":[
+        {
+          "startDate" : "06-12-2019",
+          "endDate" : "06-14-2019"
+
+        },
+        {
+          "startDate" : "05-17-2019",
+          "endDate" : "05-18-2019"
+
+        }
+      ]
+
+    },
+  ]
+}

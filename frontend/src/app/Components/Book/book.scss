@@ -1,0 +1,41 @@
+#book{
+
+  .overview{
+    background-color: rgba(237, 237, 237, 0.25);
+    .col-12{
+      padding:0px;
+
+      .overview-image{
+        background-position: 50% 50%, 0px 0px;
+        height: 400px;
+        width: 100%;
+        background-size: cover, auto;
+      }
+
+      .overview-text{
+        padding:50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height:100%;
+
+        .title{
+          font-weight: 500;
+          font-size: 16px;
+          line-height: 20px;
+          color: rgba(34, 34, 34, 0.7);
+        }
+      }
+    }
+  }
+
+  .description{
+      padding:50px;
+
+      .col-12{
+        >*{
+          margin: 20px 0px;
+        }
+      }
+  }
+}

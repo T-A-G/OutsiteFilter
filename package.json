@@ -1,0 +1,13 @@
+{
+  "name": "outsite",
+  "version": "1.0.0",
+  "scripts": {
+    "frontend": "cd frontend && npm start",
+    "server": "cd backend && npm start",
+    "dev": "concurrently --kill-others-on-fail \"npm run-script server\" \"npm run-script frontend\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^4.0.1"
+  }
+}
